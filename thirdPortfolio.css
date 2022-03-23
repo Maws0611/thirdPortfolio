@@ -9,6 +9,13 @@ p, h1, h5, li{
 #accueil{
     border-top: 4px solid #CDD03E !important;
 }
+h2, h3{
+    color: #CDD03E
+}
+a{
+color:white !important;
+}
+
 .menuAccueil:active{
     border-bottom: 3px solid #CDD03E !important;
 }
@@ -22,9 +29,11 @@ p, h1, h5, li{
 
 #experiences{
     border-top: 4px solid #C63D3D !important;
+    
 }
 .menuExperiences:active{
 border-bottom: 3px solid #C63D3D
+
 }
 
 .menuContact:active{
