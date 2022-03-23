@@ -1,0 +1,44 @@
+body{
+    background-color: #2D6164!important;
+}
+p, h1, h5, li{
+    color: white !important;
+}
+
+
+#accueil{
+    border-top: 4px solid #CDD03E !important;
+}
+.menuAccueil:active{
+    border-bottom: 3px solid #CDD03E !important;
+}
+
+#parcours{
+    border-top: 4px solid #5096FF !important;
+}
+.menuParcours:focus{
+    border-bottom: 3px solid #5096FF !important;
+}
+
+#experiences{
+    border-top: 4px solid #C63D3D !important;
+}
+.menuExperiences:active{
+border-bottom: 3px solid #C63D3D
+}
+
+.menuContact:active{
+    border-bottom: 3px solid #53D03E
+}
+#contact{
+    border-top: 4px solid #53D03E !important;
+}
+footer{
+    background-color:#53D03E !important;
+}
+
+button{
+    border-radius: 20px!important;
+    background-color: #53D03E !important;
+}
+
